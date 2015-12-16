@@ -1,0 +1,250 @@
+L 11/29/2015 - 19:38:17: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:38:17: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:38:18: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:38:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:39:07: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:39:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:43:38: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:43:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:45:24: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:45:24: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:45:24: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:46:38: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:46:38: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:46:39: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:47:13: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:47:13: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:47:13: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:47:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:47:35: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:47:35: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:47:36: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:47:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:48:03: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:48:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:48:22: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 19:48:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:48:59: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 19:48:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:49:11: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:49:11: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:49:12: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:49:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:49:28: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:49:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:49:43: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 19:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:50:01: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 19:50:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:50:23: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:50:23: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 19:50:23: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:50:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:52:11: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:52:11: -------- Mapchange to de_dust --------
+L 11/29/2015 - 19:52:12: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:52:44: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:52:44: -------- Mapchange to de_dust --------
+L 11/29/2015 - 19:52:44: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 19:53:43: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 19:53:43: -------- Mapchange to de_dust --------
+L 11/29/2015 - 19:53:43: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 19:53:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:00:28: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:00:28: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:00:28: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:00:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:01:32: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:01:32: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:01:32: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:01:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:02:03: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:02:03: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:02:03: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:02:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:02:22: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:02:22: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:02:22: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:02:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:03:04: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:03:04: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:03:05: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:03:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:04:32: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:04:32: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:04:32: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:04:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:06:27: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:06:27: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:06:27: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:06:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:07:32: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:07:32: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:07:32: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:08:38: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:08:38: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:08:38: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:08:43: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:08:43: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:08:43: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:08:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:09:39: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:09:39: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:09:39: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:09:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:09:59: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:09:59: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:09:59: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:10:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:13:25: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:13:25: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:13:25: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:13:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:14:38: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:14:38: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:14:38: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:14:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:14:50: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:14:50: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:14:51: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:14:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:16:04: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:16:04: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:16:05: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:16:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:16:16: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:16:16: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:16:16: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:18:06: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:18:06: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:18:06: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:18:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:19:09: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:19:09: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:19:09: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:19:20: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:19:20: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:19:21: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:19:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:22:10: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:22:10: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:22:10: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:22:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:22:24: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:22:24: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:22:25: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:22:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:34:32: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:34:32: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:34:34: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:34:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:36:26: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:36:26: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:36:26: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:36:30: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:36:30: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:36:30: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:36:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:36:51: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:36:51: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:36:52: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:36:55: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:36:55: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:36:55: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.fof.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.csgo.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.cstrike.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.insurgency.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2mp.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.fof.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.ep1.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.ep2.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.cstrike.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.dod.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.insurgency.txt"
+L 11/29/2015 - 20:36:57: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 11/29/2015 - 20:37:54: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:37:54: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:37:54: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:38:00: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:38:00: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:38:00: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:40:36: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:40:36: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:40:36: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:42:42: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:42:42: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:42:42: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:43:11: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:43:11: -------- Mapchange to de_dust --------
+L 11/29/2015 - 20:43:11: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:43:48: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:43:48: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:43:48: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:43:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:46:16: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:46:16: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:46:17: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:46:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:49:30: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:49:30: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:49:31: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:49:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:50:04: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:50:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:56:05: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:56:05: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:56:05: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:56:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:56:16: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:56:52: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 20:56:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:59:29: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 20:59:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 20:59:54: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 20:59:54: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 20:59:54: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 20:59:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 21:00:18: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 21:00:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 21:01:09: -------- Mapchange to de_dust2snow --------
+L 11/29/2015 - 21:01:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 21:02:18: SourceMod log file session started (file "L20151129.log") (Version "1.7.2-dev+5201")
+L 11/29/2015 - 21:02:18: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 21:02:18: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/29/2015 - 21:02:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 21:02:34: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 21:02:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 21:22:07: -------- Mapchange to de_cache --------
+L 11/29/2015 - 21:22:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 22:08:16: [SM] Changed map to "de_train"
+L 11/29/2015 - 22:08:23: -------- Mapchange to de_train --------
+L 11/29/2015 - 22:08:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 22:13:18: -------- Mapchange to de_cbble --------
+L 11/29/2015 - 22:13:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 22:15:32: -------- Mapchange to de_dust2 --------
+L 11/29/2015 - 22:15:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 22:19:38: -------- Mapchange to de_cbble --------
+L 11/29/2015 - 22:19:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 23:04:37: [SM] Changed map to "de_inferno"
+L 11/29/2015 - 23:04:40: -------- Mapchange to de_inferno --------
+L 11/29/2015 - 23:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 23:17:31: -------- Mapchange to de_cache --------
+L 11/29/2015 - 23:17:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/29/2015 - 23:59:59: [SM] Changed map to "de_nuke"

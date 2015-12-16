@@ -1,0 +1,163 @@
+L 12/08/2015 - 00:14:16: SourceMod log file session started (file "L20151208.log") (Version "1.7.2")
+L 12/08/2015 - 00:14:16: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 00:14:16: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/08/2015 - 00:14:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 00:14:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 01:08:23: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 01:08:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 01:08:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 01:08:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 01:13:31: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 01:13:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 01:13:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 01:13:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:05:49: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 02:05:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:05:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 02:05:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:06:19: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 02:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 02:06:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:13:03: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 02:13:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 02:13:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 02:13:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 03:09:06: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 03:09:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 03:09:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 03:09:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 03:14:30: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 03:14:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 03:14:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 03:14:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:18:29: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 06:18:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:18:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:18:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:25:20: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "eclipse"
+L 12/08/2015 - 06:25:23: [SM] Changed map to "eclipse"
+L 12/08/2015 - 06:25:24: -------- Mapchange to surf_eclipse --------
+L 12/08/2015 - 06:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:25:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:41:29: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "glass7"
+L 12/08/2015 - 06:41:32: [SM] Changed map to "glass7"
+L 12/08/2015 - 06:41:32: -------- Mapchange to surf_glass7 --------
+L 12/08/2015 - 06:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:50:28: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "utopia"
+L 12/08/2015 - 06:50:31: [SM] Changed map to "utopia"
+L 12/08/2015 - 06:50:32: -------- Mapchange to surf_utopia_v3 --------
+L 12/08/2015 - 06:50:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:50:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:50:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:52:20: [SM] Changed map to "de_dust"
+L 12/08/2015 - 06:52:22: -------- Mapchange to de_dust --------
+L 12/08/2015 - 06:52:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:52:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:52:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/08/2015 - 06:52:59: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "trance"
+L 12/08/2015 - 06:53:02: [SM] Changed map to "trance"
+L 12/08/2015 - 06:53:03: -------- Mapchange to surf_trance_ksf --------
+L 12/08/2015 - 06:53:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 06:53:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 06:53:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:01:55: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "mesa"
+L 12/08/2015 - 07:01:58: [SM] Changed map to "mesa"
+L 12/08/2015 - 07:01:59: -------- Mapchange to surf_mesa_mine --------
+L 12/08/2015 - 07:01:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:01:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 07:02:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:11:30: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "lullaby"
+L 12/08/2015 - 07:11:34: [SM] Changed map to "lullaby"
+L 12/08/2015 - 07:11:35: -------- Mapchange to surf_lullaby_ksf --------
+L 12/08/2015 - 07:11:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:11:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 07:11:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:29:04: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "lux"
+L 12/08/2015 - 07:29:07: [SM] Changed map to "lux"
+L 12/08/2015 - 07:29:08: -------- Mapchange to surf_lux --------
+L 12/08/2015 - 07:29:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:29:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 07:29:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:35:53: [basecommands.smx] "✪ Staygr / game-sense.net<6><STEAM_1:0:99139306><>" changed map to "year3000"
+L 12/08/2015 - 07:35:56: [SM] Changed map to "year3000"
+L 12/08/2015 - 07:35:57: -------- Mapchange to surf_year3000 --------
+L 12/08/2015 - 07:35:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:35:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 07:36:11: SourceMod log file session started (file "L20151208.log") (Version "1.7.2")
+L 12/08/2015 - 07:36:11: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 07:36:11: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/08/2015 - 07:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 07:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 13:57:12: SourceMod log file session started (file "L20151208.log") (Version "1.7.2")
+L 12/08/2015 - 13:57:12: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 13:57:18: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/08/2015 - 13:57:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 13:57:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 15:27:02: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 15:27:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 15:27:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 15:27:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 15:27:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 17:07:16: SourceMod log file session started (file "L20151208.log") (Version "1.7.2")
+L 12/08/2015 - 17:07:16: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 17:07:16: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/08/2015 - 17:07:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 17:07:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 19:41:36: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 19:41:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 19:41:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 19:41:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 19:48:31: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 19:48:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 19:48:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 19:48:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 19:49:08: [basecommands.smx] "Claymoore<4><STEAM_1:0:47584314><>" changed map to "fruit"
+L 12/08/2015 - 19:49:11: [SM] Changed map to "fruit"
+L 12/08/2015 - 19:49:12: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 19:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 19:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 19:49:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:13:47: [basecommands.smx] "Claymoore<4><STEAM_1:0:47584314><>" changed map to "prelude"
+L 12/08/2015 - 20:13:50: [SM] Changed map to "prelude"
+L 12/08/2015 - 20:13:50: -------- Mapchange to surf_prelude_ksf --------
+L 12/08/2015 - 20:13:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:13:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 20:13:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:14:56: [basecommands.smx] "Claymoore<4><STEAM_1:0:47584314><>" changed map to "fruit"
+L 12/08/2015 - 20:15:00: [SM] Changed map to "fruit"
+L 12/08/2015 - 20:15:00: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 20:15:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:15:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 20:15:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:25:24: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 20:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 20:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:52:12: [basecommands.smx] "Claymoore<9><STEAM_1:0:47584314><>" changed map to "fruit"
+L 12/08/2015 - 20:52:15: [SM] Changed map to "fruit"
+L 12/08/2015 - 20:52:15: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 20:52:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 20:52:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 20:52:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 21:48:00: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 21:48:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 21:48:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 21:48:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:02:12: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 22:02:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:02:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 22:02:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:40:11: -------- Mapchange to surf_fruits --------
+L 12/08/2015 - 22:40:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:40:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 22:40:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:40:48: [basecommands.smx] "Steve<16><STEAM_1:1:56910207><>" changed map to "rookie"
+L 12/08/2015 - 22:40:51: [SM] Changed map to "rookie"
+L 12/08/2015 - 22:40:52: -------- Mapchange to surf_rookie_fix --------
+L 12/08/2015 - 22:40:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/08/2015 - 22:40:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 12/08/2015 - 22:40:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")

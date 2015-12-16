@@ -1,0 +1,42 @@
+L 12/12/2015 - 02:15:24: SourceMod log file session started (file "L20151212.log") (Version "1.7.2")
+L 12/12/2015 - 02:15:24: -------- Mapchange to surf_beginner_ug --------
+L 12/12/2015 - 02:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 02:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 02:20:49: [basecommands.smx] "Steve<5><STEAM_1:1:56910207><>" changed map to "utopia"
+L 12/12/2015 - 02:20:52: [SM] Changed map to "utopia"
+L 12/12/2015 - 02:20:53: -------- Mapchange to surf_utopia_v3 --------
+L 12/12/2015 - 02:20:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 02:52:05: [basecommands.smx] "Wumbo :)<9><STEAM_1:0:119798497><>" changed map to "beginner"
+L 12/12/2015 - 02:52:08: [SM] Changed map to "beginner"
+L 12/12/2015 - 02:52:08: -------- Mapchange to surf_beginner_ug --------
+L 12/12/2015 - 02:52:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 03:25:26: [basecommands.smx] "Wumbo :)<24><STEAM_1:0:119798497><>" changed map to "fruits"
+L 12/12/2015 - 03:25:29: [SM] Changed map to "fruits"
+L 12/12/2015 - 03:25:30: -------- Mapchange to surf_fruits --------
+L 12/12/2015 - 03:25:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 03:37:13: [basecommands.smx] "Steve<28><STEAM_1:1:56910207><>" changed map to "kitsune"
+L 12/12/2015 - 03:37:16: [SM] Changed map to "kitsune"
+L 12/12/2015 - 03:37:17: -------- Mapchange to surf_kitsune --------
+L 12/12/2015 - 03:37:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/12/2015 - 03:55:53: SourceMod log file session started (file "L20151212.log") (Version "1.7.2")
+L 12/12/2015 - 03:55:53: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 03:55:53: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/12/2015 - 03:56:37: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 03:56:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/12/2015 - 03:57:21: SourceMod log file session started (file "L20151212.log") (Version "1.7.2")
+L 12/12/2015 - 03:57:21: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 03:57:21: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/12/2015 - 03:59:40: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 03:59:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/12/2015 - 04:20:03: -------- Mapchange to de_cache --------
+L 12/12/2015 - 04:20:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/12/2015 - 04:52:02: SourceMod log file session started (file "L20151212.log") (Version "1.7.2")
+L 12/12/2015 - 04:52:02: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 04:52:02: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/12/2015 - 04:52:22: -------- Mapchange to de_dust2 --------
+L 12/12/2015 - 04:52:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/12/2015 - 05:04:12: SourceMod log file session started (file "L20151212.log") (Version "1.7.2")
+L 12/12/2015 - 05:04:12: -------- Mapchange to surf_beginner_ug --------
+L 12/12/2015 - 05:04:12: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/12/2015 - 19:59:43: -------- Mapchange to surf_beginner_ug --------
+L 12/12/2015 - 19:59:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")

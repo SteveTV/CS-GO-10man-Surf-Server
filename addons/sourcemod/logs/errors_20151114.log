@@ -1,0 +1,92 @@
+L 11/14/2015 - 00:11:57: SourceMod error session started
+L 11/14/2015 - 00:11:57: Info (map "de_train") (file "errors_20151114.log")
+L 11/14/2015 - 00:11:57: Error log file session closed.
+L 11/14/2015 - 00:11:57: SourceMod error session started
+L 11/14/2015 - 00:11:57: Info (map "de_train") (file "errors_20151114.log")
+L 11/14/2015 - 00:11:57: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 00:11:57: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 00:11:57: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 00:11:57: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 00:11:57: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 00:11:59: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 00:12:00: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 00:12:00: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 00:16:24: Error log file session closed.
+L 11/14/2015 - 00:16:24: SourceMod error session started
+L 11/14/2015 - 00:16:24: Info (map "de_train") (file "errors_20151114.log")
+L 11/14/2015 - 00:16:24: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 00:16:24: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 00:16:24: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 00:16:24: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 00:16:24: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 00:16:25: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 00:16:25: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 00:16:25: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 00:21:11: SourceMod error session started
+L 11/14/2015 - 00:21:11: Info (map "de_dust2") (file "errors_20151114.log")
+L 11/14/2015 - 00:21:11: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 00:21:11: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 00:21:11: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 00:21:11: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 00:21:11: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 00:21:18: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 00:21:18: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 00:21:18: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 00:21:22: Error log file session closed.
+L 11/14/2015 - 00:21:22: SourceMod error session started
+L 11/14/2015 - 00:21:22: Info (map "de_dust2") (file "errors_20151114.log")
+L 11/14/2015 - 00:21:22: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 00:21:22: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 00:21:22: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 00:21:22: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 00:21:22: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 00:21:22: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 00:21:22: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 00:21:22: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 00:23:04: [pugsetup.smx] Failed to open file for reading: cfg/sourcemod/pugsetup/knife.cfg
+L 11/14/2015 - 00:23:04: [pugsetup.smx] Failed to save cvar values when executing sourcemod/pugsetup/knife.cfg
+L 11/14/2015 - 00:58:54: Error log file session closed.
+L 11/14/2015 - 00:58:54: SourceMod error session started
+L 11/14/2015 - 00:58:54: Info (map "de_train") (file "errors_20151114.log")
+L 11/14/2015 - 00:58:54: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 00:58:54: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 00:58:54: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 00:58:54: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 00:58:54: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 00:58:55: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 00:58:55: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 00:58:55: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 01:05:55: SourceMod error session started
+L 11/14/2015 - 01:05:55: Info (map "de_dust2") (file "errors_20151114.log")
+L 11/14/2015 - 01:05:55: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 01:05:55: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 01:05:55: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 01:05:55: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 01:05:55: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 01:06:00: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 01:06:00: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 01:06:00: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 01:06:04: Error log file session closed.
+L 11/14/2015 - 01:06:04: SourceMod error session started
+L 11/14/2015 - 01:06:04: Info (map "de_dust2") (file "errors_20151114.log")
+L 11/14/2015 - 01:06:04: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 01:06:04: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 01:06:04: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 01:06:04: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 01:06:04: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 01:06:05: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 01:06:05: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 01:06:05: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 01:08:17: Error log file session closed.
+L 11/14/2015 - 01:08:17: SourceMod error session started
+L 11/14/2015 - 01:08:17: Info (map "de_dust2") (file "errors_20151114.log")
+L 11/14/2015 - 01:08:17: [SM] Plugin encountered error 25: Call was aborted
+L 11/14/2015 - 01:08:17: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/14/2015 - 01:08:17: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/14/2015 - 01:08:17: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/14/2015 - 01:08:17: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/14/2015 - 01:08:17: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/14/2015 - 01:08:17: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/14/2015 - 01:08:17: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt
+L 11/14/2015 - 01:09:00: [pugsetup.smx] Failed to open file for reading: cfg/sourcemod/pugsetup/knife.cfg
+L 11/14/2015 - 01:09:00: [pugsetup.smx] Failed to save cvar values when executing sourcemod/pugsetup/knife.cfg

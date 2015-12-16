@@ -1,0 +1,11 @@
+L 12/01/2015 - 20:37:11: SourceMod log file session started (file "L20151201.log") (Version "1.7.2-dev+5201")
+L 12/01/2015 - 20:37:11: -------- Mapchange to de_nuke --------
+L 12/01/2015 - 20:37:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/01/2015 - 20:37:36: -------- Mapchange to de_nuke --------
+L 12/01/2015 - 20:37:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/01/2015 - 20:41:29: [SM] Changed map to "cs_italy"
+L 12/01/2015 - 20:41:32: -------- Mapchange to cs_italy --------
+L 12/01/2015 - 20:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/01/2015 - 20:43:53: [SM] Changed map to "de_dust"
+L 12/01/2015 - 20:43:56: -------- Mapchange to de_dust --------
+L 12/01/2015 - 20:43:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")

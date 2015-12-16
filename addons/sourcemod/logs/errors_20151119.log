@@ -1,0 +1,14 @@
+L 11/19/2015 - 06:20:50: SourceMod error session started
+L 11/19/2015 - 06:20:50: Info (map "de_dust2") (file "errors_20151119.log")
+L 11/19/2015 - 06:20:50: [SM] Plugin encountered error 25: Call was aborted
+L 11/19/2015 - 06:20:50: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 11/19/2015 - 06:20:50: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 11/19/2015 - 06:20:50: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 11/19/2015 - 06:20:50: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 11/19/2015 - 06:22:14: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 11/19/2015 - 06:23:04: [SM] Plugin encountered error 30: Script execution timed out
+L 11/19/2015 - 06:23:04: [SM] Displaying call stack trace for plugin "basecommands.smx":
+L 11/19/2015 - 06:23:04: [SM]   [0]  Line 151, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\basecommands/map.sp::LoadMapList()
+L 11/19/2015 - 06:23:04: [SM]   [1]  Line 105, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\basecommands.sp::OnConfigsExecuted()
+L 11/19/2015 - 06:23:04: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 11/19/2015 - 06:23:04: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt

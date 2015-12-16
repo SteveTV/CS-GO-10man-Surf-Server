@@ -1,0 +1,242 @@
+L 11/22/2015 - 00:18:30: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 00:18:30: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 00:56:41: [SM] Changed map to "de_nuke"
+L 11/22/2015 - 00:56:46: -------- Mapchange to de_nuke --------
+L 11/22/2015 - 04:16:23: -------- Mapchange to de_nuke --------
+L 11/22/2015 - 04:17:46: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 04:30:12: -------- Mapchange to de_overpass --------
+L 11/22/2015 - 05:20:40: [SM] Changed map to "de_cbble"
+L 11/22/2015 - 05:20:44: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 05:26:43: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 05:26:43: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 05:26:57: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 05:40:56: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 06:28:55: [SM] Changed map to "de_train"
+L 11/22/2015 - 06:29:03: -------- Mapchange to de_train --------
+L 11/22/2015 - 06:41:13: -------- Mapchange to de_inferno --------
+L 11/22/2015 - 14:38:39: -------- Mapchange to de_inferno --------
+L 11/22/2015 - 14:38:40: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 14:38:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 14:39:43: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 14:39:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 14:39:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 14:39:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:12:12: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:12:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:12:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:12:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:13:13: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:13:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:13:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:13:44: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:13:44: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:13:45: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:13:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:14:12: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:15:25: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:15:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:15:34: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:15:34: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:15:34: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:15:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:16:16: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:17:25: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:17:25: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:17:25: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:17:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:17:48: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:17:48: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:17:49: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:17:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:18:11: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:18:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:18:56: -------- Mapchange to de_train --------
+L 11/22/2015 - 15:18:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:18:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:18:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:19:22: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:19:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:19:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:20:29: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:20:30: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:20:30: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:26:24: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:26:24: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:26:24: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:26:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:27:22: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:27:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:27:45: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:27:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:35:53: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:35:53: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:35:54: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:35:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:36:51: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:36:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:37:26: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:41:00: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:41:00: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:41:00: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:41:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:41:31: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:41:31: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:41:31: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:41:46: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:41:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:42:08: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:42:44: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:42:44: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:42:44: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:42:54: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:42:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:43:31: -------- Mapchange to de_inferno --------
+L 11/22/2015 - 15:43:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:43:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:43:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:43:55: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:43:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:43:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:44:24: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:44:24: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:44:24: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:44:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:44:34: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:44:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:45:06: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 15:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:45:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:45:30: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:45:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:45:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:45:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:47:53: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:47:53: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:47:53: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:47:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:48:01: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:48:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:48:22: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 15:48:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:48:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:48:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:48:38: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:48:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:48:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:49:35: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:49:35: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:49:36: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:49:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:51:15: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:51:15: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:51:15: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:51:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:51:43: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:51:43: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:51:43: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:51:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:51:54: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:51:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:52:34: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 15:52:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:52:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:52:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:52:52: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 15:52:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:52:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:52:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:53:17: -------- Mapchange to surf_beginner --------
+L 11/22/2015 - 15:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:53:36: -------- Mapchange to surf_akai_final --------
+L 11/22/2015 - 15:53:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:53:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:54:13: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 15:54:13: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:54:13: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 15:54:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:54:44: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 15:54:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:55:04: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 15:55:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:55:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 15:55:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 15:55:21: -------- Mapchange to surf_and_destroy --------
+L 11/22/2015 - 15:55:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 15:55:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:17:10: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 16:17:10: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:17:10: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 16:17:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:17:42: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:17:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:18:23: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 16:18:23: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:18:24: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 16:18:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:18:34: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 16:18:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:18:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:18:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:18:43: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 16:18:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:18:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:18:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:18:57: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 16:18:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:18:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:18:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:24:25: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 16:24:25: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:24:25: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 16:24:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:24:41: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:24:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:25:03: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 16:25:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:25:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:25:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:25:16: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 16:25:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:25:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:25:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:32:58: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 16:32:58: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:32:58: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 16:33:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:33:13: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:33:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:33:34: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 16:33:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:33:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:33:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:33:48: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 16:33:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:33:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:33:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:52:24: SourceMod log file session started (file "L20151122.log") (Version "1.7.2-dev+5201")
+L 11/22/2015 - 16:52:24: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:52:24: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 11/22/2015 - 16:52:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:52:35: -------- Mapchange to de_dust2 --------
+L 11/22/2015 - 16:52:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:53:04: -------- Mapchange to de_cbble --------
+L 11/22/2015 - 16:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:53:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 11/22/2015 - 16:53:20: -------- Mapchange to surf_aircontrol_ksf --------
+L 11/22/2015 - 16:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 16:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 16:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 17:23:33: [SM] Changed map to "de_train"
+L 11/22/2015 - 17:23:38: -------- Mapchange to de_train --------
+L 11/22/2015 - 17:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 11/22/2015 - 17:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 11/22/2015 - 17:23:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")

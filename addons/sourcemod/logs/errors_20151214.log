@@ -1,0 +1,215 @@
+L 12/14/2015 - 00:48:54: SourceMod error session started
+L 12/14/2015 - 00:48:54: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 00:48:54: Error log file session closed.
+L 12/14/2015 - 00:48:54: SourceMod error session started
+L 12/14/2015 - 00:48:54: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 00:48:54: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 00:48:54: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 00:48:54: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 00:48:54: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 00:48:54: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 00:48:54: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 00:48:54: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 00:48:54: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 00:48:54: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 00:48:54: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 00:48:55: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 00:48:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 00:48:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 01:53:06: Error log file session closed.
+L 12/14/2015 - 01:53:06: SourceMod error session started
+L 12/14/2015 - 01:53:06: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 01:53:06: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 01:53:06: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 01:53:06: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 01:53:06: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 01:53:06: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 01:53:06: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 01:53:06: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 01:53:06: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 01:53:06: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 01:53:06: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 01:53:07: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 01:53:07: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 01:53:07: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 04:34:59: Error log file session closed.
+L 12/14/2015 - 04:34:59: SourceMod error session started
+L 12/14/2015 - 04:34:59: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 04:34:59: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:34:59: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 04:34:59: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 04:34:59: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 04:34:59: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 04:34:59: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:34:59: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 04:34:59: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 04:34:59: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 04:34:59: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 04:35:00: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 04:35:00: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 04:35:00: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 04:43:28: Error log file session closed.
+L 12/14/2015 - 04:43:28: SourceMod error session started
+L 12/14/2015 - 04:43:28: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 04:43:28: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:43:28: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 04:43:28: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 04:43:28: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 04:43:28: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 04:43:28: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:43:28: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 04:43:28: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 04:43:28: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 04:43:28: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 04:43:29: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 04:43:29: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 04:43:29: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 04:56:04: Error log file session closed.
+L 12/14/2015 - 04:56:04: SourceMod error session started
+L 12/14/2015 - 04:56:04: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 04:56:04: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:56:04: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 04:56:04: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 04:56:04: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 04:56:04: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 04:56:04: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 04:56:04: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 04:56:04: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 04:56:04: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 04:56:04: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 04:56:05: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 04:56:05: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 04:56:05: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 20:22:22: Error log file session closed.
+L 12/14/2015 - 20:22:22: SourceMod error session started
+L 12/14/2015 - 20:22:22: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 20:22:22: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 20:22:22: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 20:22:22: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 20:22:22: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 20:22:22: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 20:22:22: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 20:22:22: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 20:22:22: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 20:22:22: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 20:22:22: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 20:22:23: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 20:22:23: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 20:22:23: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 21:55:00: Error log file session closed.
+L 12/14/2015 - 21:55:00: SourceMod error session started
+L 12/14/2015 - 21:55:00: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 21:55:00: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 21:55:00: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 21:55:00: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 21:55:00: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 21:55:00: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 21:55:00: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 21:55:00: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 21:55:00: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 21:55:00: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 21:55:00: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 21:55:01: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 21:55:01: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 21:55:01: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 22:12:44: Error log file session closed.
+L 12/14/2015 - 22:12:44: SourceMod error session started
+L 12/14/2015 - 22:12:44: Info (map "kz_frozen_go") (file "errors_20151214.log")
+L 12/14/2015 - 22:12:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:12:44: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 22:12:44: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 22:12:44: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 22:12:44: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 22:12:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:12:44: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 22:12:44: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 22:12:44: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 22:12:44: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 22:12:45: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 22:12:45: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 22:12:45: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 22:13:12: Error log file session closed.
+L 12/14/2015 - 22:13:12: SourceMod error session started
+L 12/14/2015 - 22:13:12: Info (map "surf_wood") (file "errors_20151214.log")
+L 12/14/2015 - 22:13:12: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:13:12: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 22:13:12: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 22:13:12: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 22:13:12: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 22:13:12: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:13:12: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 22:13:12: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 22:13:12: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 22:13:12: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 22:13:13: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 22:13:13: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 22:13:13: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 22:14:44: Error log file session closed.
+L 12/14/2015 - 22:14:44: SourceMod error session started
+L 12/14/2015 - 22:14:44: Info (map "surf_classics2") (file "errors_20151214.log")
+L 12/14/2015 - 22:14:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:14:44: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 22:14:44: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 22:14:44: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 22:14:44: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 22:14:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 22:14:44: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 22:14:44: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 22:14:44: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 22:14:44: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 22:14:44: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 22:14:44: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 22:14:44: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 23:00:14: Error log file session closed.
+L 12/14/2015 - 23:00:14: SourceMod error session started
+L 12/14/2015 - 23:00:14: Info (map "surf_classics2") (file "errors_20151214.log")
+L 12/14/2015 - 23:00:14: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:00:14: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 23:00:14: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 23:00:14: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 23:00:14: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 23:00:14: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:00:14: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 23:00:14: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 23:00:14: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 23:00:14: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 23:00:15: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 23:00:15: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 23:00:15: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 23:40:09: Error log file session closed.
+L 12/14/2015 - 23:40:09: SourceMod error session started
+L 12/14/2015 - 23:40:09: Info (map "surf_classics2") (file "errors_20151214.log")
+L 12/14/2015 - 23:40:09: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:40:09: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 23:40:09: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 23:40:09: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 23:40:09: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 23:40:09: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:40:09: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 23:40:09: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 23:40:09: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 23:40:09: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 23:40:10: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 23:40:10: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 23:40:10: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 23:46:00: Error log file session closed.
+L 12/14/2015 - 23:46:00: SourceMod error session started
+L 12/14/2015 - 23:46:00: Info (map "surf_fruits") (file "errors_20151214.log")
+L 12/14/2015 - 23:46:00: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:46:00: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/14/2015 - 23:46:00: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/14/2015 - 23:46:00: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/14/2015 - 23:46:00: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/14/2015 - 23:46:00: [SM] Plugin encountered error 25: Call was aborted
+L 12/14/2015 - 23:46:00: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/14/2015 - 23:46:00: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/14/2015 - 23:46:00: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/14/2015 - 23:46:00: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/14/2015 - 23:46:01: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/14/2015 - 23:46:01: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/14/2015 - 23:46:01: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/14/2015 - 23:46:13: [SM] Native "SDKHook" reported: Entity 3 is invalid
+L 12/14/2015 - 23:46:13: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/14/2015 - 23:46:13: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/14/2015 - 23:46:13: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/14/2015 - 23:46:13: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()

@@ -1,0 +1,15 @@
+L 12/02/2015 - 02:39:12: SourceMod error session started
+L 12/02/2015 - 02:39:12: Info (map "de_dust") (file "errors_20151202.log")
+L 12/02/2015 - 02:39:12: Error log file session closed.
+L 12/02/2015 - 02:39:12: SourceMod error session started
+L 12/02/2015 - 02:39:12: Info (map "de_dust") (file "errors_20151202.log")
+L 12/02/2015 - 02:39:12: [SM] Plugin encountered error 25: Call was aborted
+L 12/02/2015 - 02:39:12: [SM] Native "SetFailState" reported: CFG File not found: addons\sourcemod\configs\csgo_wpaints.cfg
+L 12/02/2015 - 02:39:12: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/02/2015 - 02:39:12: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/02/2015 - 02:39:12: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/02/2015 - 02:39:12: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 12/02/2015 - 02:39:12: [admin-flatfile.smx]  (line 37) A property was declared outside of a section
+L 12/02/2015 - 02:39:13: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/02/2015 - 02:39:13: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\maps.txt
+L 12/02/2015 - 02:39:13: [pugsetup.smx] Missing map file: addons\sourcemod\configs\pugsetup\aim_maps.txt

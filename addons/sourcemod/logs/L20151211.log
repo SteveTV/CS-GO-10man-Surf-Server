@@ -1,0 +1,187 @@
+L 12/11/2015 - 00:15:48: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 00:15:48: -------- Mapchange to surf_forbidden_ways_ksf --------
+L 12/11/2015 - 00:15:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 00:16:56: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 00:16:56: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 00:16:56: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 00:17:13: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 00:17:13: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 00:17:13: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 00:17:28: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 00:17:28: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 00:17:28: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 00:17:46: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 00:17:46: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 00:17:46: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 00:18:47: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 00:18:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 00:46:52: -------- Mapchange to de_cache --------
+L 12/11/2015 - 00:46:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 01:45:55: -------- Mapchange to de_cache --------
+L 12/11/2015 - 01:45:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 01:46:09: [basecommands.smx] "✪ spK_<38><STEAM_1:0:99139306><>" changed map to "inferno"
+L 12/11/2015 - 01:46:12: [SM] Changed map to "inferno"
+L 12/11/2015 - 01:46:13: -------- Mapchange to de_inferno_winter --------
+L 12/11/2015 - 01:46:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 01:46:35: [basecommands.smx] "✪ spK_<38><STEAM_1:0:99139306><>" changed map to "de_inferno"
+L 12/11/2015 - 01:46:38: [SM] Changed map to "de_inferno"
+L 12/11/2015 - 01:46:39: -------- Mapchange to de_inferno --------
+L 12/11/2015 - 01:46:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 02:00:24: [basecommands.smx] "✪ spK_<38><STEAM_1:0:99139306><>" changed map to "mirage"
+L 12/11/2015 - 02:00:27: [SM] Changed map to "mirage"
+L 12/11/2015 - 02:00:45: -------- Mapchange to de_mirage_winter --------
+L 12/11/2015 - 02:00:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 02:01:50: [basecommands.smx] "✪ spK_<38><STEAM_1:0:99139306><>" changed map to "de_mirage"
+L 12/11/2015 - 02:01:53: [SM] Changed map to "de_mirage"
+L 12/11/2015 - 02:01:55: -------- Mapchange to de_mirage --------
+L 12/11/2015 - 02:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 02:04:46: -------- Mapchange to de_mirage --------
+L 12/11/2015 - 02:04:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 02:06:46: -------- Mapchange to de_mirage --------
+L 12/11/2015 - 02:06:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 02:33:14: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 02:33:14: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 02:33:14: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 02:48:00: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 02:48:00: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 02:48:00: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 02:52:38: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 02:52:38: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 02:52:38: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 02:54:45: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 02:54:45: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 02:54:45: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 02:56:29: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 02:56:29: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 02:56:29: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 03:12:37: -------- Mapchange to de_dust2 --------
+L 12/11/2015 - 03:12:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 03:47:30: -------- Mapchange to de_overpass --------
+L 12/11/2015 - 03:47:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 04:28:52: [basecommands.smx] "✪ spK_<2><STEAM_1:0:99139306><>" changed map to "de_mirage"
+L 12/11/2015 - 04:28:55: [SM] Changed map to "de_mirage"
+L 12/11/2015 - 04:28:55: -------- Mapchange to de_mirage --------
+L 12/11/2015 - 04:28:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")
+L 12/11/2015 - 06:01:13: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 06:01:13: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 06:01:13: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 06:01:56: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 06:01:56: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 06:01:56: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 06:48:59: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 06:49:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 06:52:36: [basecommands.smx] "Steve<6><STEAM_1:1:56910207><>" changed map to "utopia"
+L 12/11/2015 - 06:52:39: [SM] Changed map to "utopia"
+L 12/11/2015 - 06:52:40: -------- Mapchange to surf_utopia_v3 --------
+L 12/11/2015 - 06:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:12:01: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "mesa"
+L 12/11/2015 - 07:12:04: [SM] Changed map to "mesa"
+L 12/11/2015 - 07:12:06: -------- Mapchange to surf_mesa_mine --------
+L 12/11/2015 - 07:12:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:12:33: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "surf_mesa"
+L 12/11/2015 - 07:12:36: [SM] Changed map to "surf_mesa"
+L 12/11/2015 - 07:12:38: -------- Mapchange to surf_mesa --------
+L 12/11/2015 - 07:12:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:27:29: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "funhouse"
+L 12/11/2015 - 07:27:33: [SM] Changed map to "funhouse"
+L 12/11/2015 - 07:27:34: -------- Mapchange to surf_funhouse_njv --------
+L 12/11/2015 - 07:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:28:22: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "reprise"
+L 12/11/2015 - 07:28:25: [SM] Changed map to "reprise"
+L 12/11/2015 - 07:28:26: -------- Mapchange to surf_reprise --------
+L 12/11/2015 - 07:28:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:29:06: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "trance"
+L 12/11/2015 - 07:29:09: [SM] Changed map to "trance"
+L 12/11/2015 - 07:29:11: -------- Mapchange to surf_trance_ksf --------
+L 12/11/2015 - 07:29:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:29:23: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "how2surf"
+L 12/11/2015 - 07:29:26: [SM] Changed map to "how2surf"
+L 12/11/2015 - 07:29:27: -------- Mapchange to surf_how2surf --------
+L 12/11/2015 - 07:29:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:46:19: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "minuet"
+L 12/11/2015 - 07:46:22: [SM] Changed map to "minuet"
+L 12/11/2015 - 07:46:23: -------- Mapchange to surf_minuet_v1p --------
+L 12/11/2015 - 07:46:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:52:33: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "derpis"
+L 12/11/2015 - 07:52:36: [SM] Changed map to "derpis"
+L 12/11/2015 - 07:52:37: -------- Mapchange to surf_derpis_ksf --------
+L 12/11/2015 - 07:52:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:54:20: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "legends"
+L 12/11/2015 - 07:54:23: [SM] Changed map to "legends"
+L 12/11/2015 - 07:54:23: -------- Mapchange to surf_legends_lite_gfl --------
+L 12/11/2015 - 07:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:54:59: [basecommands.smx] "Steve<9><STEAM_1:1:56910207><>" changed map to "pox"
+L 12/11/2015 - 07:55:02: [SM] Changed map to "pox"
+L 12/11/2015 - 07:55:03: -------- Mapchange to surf_pox --------
+L 12/11/2015 - 07:55:16: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 07:55:16: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 07:55:16: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 07:55:52: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 07:55:52: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 07:55:52: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 07:56:37: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 07:56:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:56:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:57:14: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "prelude"
+L 12/11/2015 - 07:57:17: [SM] Changed map to "prelude"
+L 12/11/2015 - 07:57:18: -------- Mapchange to surf_prelude_ksf --------
+L 12/11/2015 - 07:57:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:57:29: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "leet"
+L 12/11/2015 - 07:57:32: [SM] Changed map to "leet"
+L 12/11/2015 - 07:57:32: -------- Mapchange to surf_leet_xl_beta7z_ --------
+L 12/11/2015 - 07:57:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:58:21: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "water-run_banjo"
+L 12/11/2015 - 07:58:24: [SM] Changed map to "water-run_banjo"
+L 12/11/2015 - 07:58:25: -------- Mapchange to surf_water-run_banjo_skill --------
+L 12/11/2015 - 07:58:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:59:22: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "lullaby"
+L 12/11/2015 - 07:59:25: [SM] Changed map to "lullaby"
+L 12/11/2015 - 07:59:26: -------- Mapchange to surf_lullaby_ksf --------
+L 12/11/2015 - 07:59:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 07:59:59: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "prime_time"
+L 12/11/2015 - 08:00:02: [SM] Changed map to "prime_time"
+L 12/11/2015 - 08:00:03: -------- Mapchange to surf_prime_time_r3vamp --------
+L 12/11/2015 - 08:00:17: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 08:00:17: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 08:00:17: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 08:00:55: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 08:00:55: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 08:00:55: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 12/11/2015 - 08:01:29: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 08:01:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 08:02:09: [basecommands.smx] "Steve<2><STEAM_1:1:56910207><>" changed map to "aircontrol"
+L 12/11/2015 - 08:02:12: [SM] Changed map to "aircontrol"
+L 12/11/2015 - 08:02:13: -------- Mapchange to surf_aircontrol_ksf --------
+L 12/11/2015 - 08:02:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 10:28:16: -------- Mapchange to surf_aircontrol_ksf --------
+L 12/11/2015 - 10:28:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 21:06:22: -------- Mapchange to surf_aircontrol_ksf --------
+L 12/11/2015 - 21:06:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 21:08:15: [basecommands.smx] "Claymoore<7><STEAM_1:0:47584314><>" changed map to "fruit"
+L 12/11/2015 - 21:08:18: [SM] Changed map to "fruit"
+L 12/11/2015 - 21:08:19: -------- Mapchange to surf_fruits --------
+L 12/11/2015 - 21:08:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 21:36:04: -------- Mapchange to surf_fruits --------
+L 12/11/2015 - 21:36:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 22:17:41: -------- Mapchange to surf_fruits --------
+L 12/11/2015 - 22:17:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 22:29:13: -------- Mapchange to surf_fruits --------
+L 12/11/2015 - 22:29:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 22:45:33: [basecommands.smx] "✪ spK_<23><STEAM_1:0:99139306><>" changed map to "elysium"
+L 12/11/2015 - 22:45:36: [SM] Changed map to "elysium"
+L 12/11/2015 - 22:45:37: -------- Mapchange to surf_elysium --------
+L 12/11/2015 - 22:45:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 23:00:17: [basecommands.smx] "KJ ( Joe De luca )<26><STEAM_1:1:48636460><>" changed map to "spacejam"
+L 12/11/2015 - 23:00:20: [SM] Changed map to "spacejam"
+L 12/11/2015 - 23:00:24: -------- Mapchange to surf_spacejam --------
+L 12/11/2015 - 23:00:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 23:51:50: [basecommands.smx] "KJ ( Joe De luca )<26><STEAM_1:1:48636460><>" changed map to "surf_coralis"
+L 12/11/2015 - 23:51:53: [SM] Changed map to "surf_coralis"
+L 12/11/2015 - 23:51:55: -------- Mapchange to surf_coralis_ksf- --------
+L 12/11/2015 - 23:51:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/11/2015 - 23:53:30: [basecommands.smx] "KJ ( Joe De luca )<26><STEAM_1:1:48636460><>" changed map to "network"
+L 12/11/2015 - 23:53:33: [SM] Changed map to "network"
+L 12/11/2015 - 23:53:34: -------- Mapchange to surf_networked_ --------
+L 12/11/2015 - 23:53:48: SourceMod log file session started (file "L20151211.log") (Version "1.7.2")
+L 12/11/2015 - 23:53:48: -------- Mapchange to surf_beginner_ug --------
+L 12/11/2015 - 23:53:48: [GEOIP] GeoIP database info: GEO-106FREE 20150505 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved

@@ -1,0 +1,3 @@
+L 11/30/2015 - 00:00:03: SourceMod log file session started (file "L20151130.log") (Version "1.7.2-dev+5201")
+L 11/30/2015 - 00:00:03: -------- Mapchange to de_nuke --------
+L 11/30/2015 - 00:00:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "0")

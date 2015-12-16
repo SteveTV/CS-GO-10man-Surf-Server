@@ -1,0 +1,21 @@
+rcon_password "tobis"
+hostname "RPD CS:GO 10 Mans"
+sv_password "cookiepuss"
+sv_setsteamaccount "8ECABE5D723A8D5212269A9DD843C6BC"
+sv_broadcast_ugc_downloads 1
+sv_broadcast_ugc_download_progress_interval 5
+sv_hibernate_ms "20"
+sv_hibernate_ms_vgui "20"
+sv_hibernate_postgame_delay "5"
+sv_hibernate_punt_tv_clients "0"
+sv_hibernate_when_empty 0
+host_players_show 2
+sv_max_queries_sec 6
+
+
+
+
+
+
+
+

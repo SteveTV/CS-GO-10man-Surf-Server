@@ -1,0 +1,389 @@
+L 12/09/2015 - 00:35:55: SourceMod error session started
+L 12/09/2015 - 00:35:55: Info (map "surf_rookie_fix") (file "errors_20151209.log")
+L 12/09/2015 - 00:35:55: Error log file session closed.
+L 12/09/2015 - 00:35:55: SourceMod error session started
+L 12/09/2015 - 00:35:55: Info (map "surf_rookie_fix") (file "errors_20151209.log")
+L 12/09/2015 - 00:35:55: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:35:55: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:35:55: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:35:55: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:35:55: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:35:55: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 00:35:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 00:35:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 00:42:49: Error log file session closed.
+L 12/09/2015 - 00:42:49: SourceMod error session started
+L 12/09/2015 - 00:42:49: Info (map "surf_rookie_fix") (file "errors_20151209.log")
+L 12/09/2015 - 00:42:49: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:42:49: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:42:49: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:42:49: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:42:49: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:42:49: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 00:42:49: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 00:42:49: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 00:43:39: Error log file session closed.
+L 12/09/2015 - 00:43:39: SourceMod error session started
+L 12/09/2015 - 00:43:39: Info (map "surf_year3000") (file "errors_20151209.log")
+L 12/09/2015 - 00:43:39: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:43:39: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:43:39: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:43:39: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:43:39: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:43:54: SourceMod error session started
+L 12/09/2015 - 00:43:54: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 00:43:54: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:43:54: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:43:54: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:43:54: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:43:54: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:43:56: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 00:44:20: Error log file session closed.
+L 12/09/2015 - 00:44:20: SourceMod error session started
+L 12/09/2015 - 00:44:20: Info (map "surf_pox") (file "errors_20151209.log")
+L 12/09/2015 - 00:44:20: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:44:20: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:44:20: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:44:20: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:44:20: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:44:32: SourceMod error session started
+L 12/09/2015 - 00:44:32: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 00:44:32: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:44:32: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:44:32: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:44:32: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:44:32: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:44:33: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 00:44:49: SourceMod error session started
+L 12/09/2015 - 00:44:49: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 00:44:49: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 00:44:49: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 00:44:49: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 00:44:49: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 00:44:49: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 00:44:49: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 01:50:43: Error log file session closed.
+L 12/09/2015 - 01:50:43: SourceMod error session started
+L 12/09/2015 - 01:50:43: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 01:50:43: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 01:50:43: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 01:50:43: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 01:50:43: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 01:50:43: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 01:50:43: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 01:50:57: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 01:50:57: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 02:47:37: SourceMod error session started
+L 12/09/2015 - 02:47:37: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 02:47:37: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 02:47:37: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 02:47:37: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 02:47:37: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 02:47:37: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 02:47:38: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 17:06:21: SourceMod error session started
+L 12/09/2015 - 17:06:21: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 17:06:21: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 17:06:21: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 17:06:21: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 17:06:21: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 17:06:21: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 17:06:22: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 18:30:43: SourceMod error session started
+L 12/09/2015 - 18:30:43: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 18:30:43: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 18:30:43: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 18:30:43: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 18:30:43: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 18:30:43: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 18:30:44: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:04:16: SourceMod error session started
+L 12/09/2015 - 19:04:16: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 19:04:16: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:04:16: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:04:16: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:04:16: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:04:16: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:04:17: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:09:44: SourceMod error session started
+L 12/09/2015 - 19:09:44: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 19:09:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:09:44: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:09:44: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:09:44: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:09:44: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:09:44: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:09:51: Error log file session closed.
+L 12/09/2015 - 19:09:51: SourceMod error session started
+L 12/09/2015 - 19:09:51: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 19:09:51: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:09:51: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:09:51: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:09:51: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:09:51: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:09:51: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:09:53: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 19:09:53: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 19:10:09: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/09/2015 - 19:10:09: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 19:10:09: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 19:10:09: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 19:10:09: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 19:51:10: Error log file session closed.
+L 12/09/2015 - 19:51:10: SourceMod error session started
+L 12/09/2015 - 19:51:10: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 19:51:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:51:10: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:51:10: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:51:10: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:51:10: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:51:11: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:51:11: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 19:51:11: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 19:52:34: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/09/2015 - 19:52:34: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 19:52:34: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 19:52:34: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 19:52:34: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 19:52:46: Error log file session closed.
+L 12/09/2015 - 19:52:46: SourceMod error session started
+L 12/09/2015 - 19:52:46: Info (map "surf_classics2") (file "errors_20151209.log")
+L 12/09/2015 - 19:52:46: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:52:46: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:52:46: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:52:46: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:52:46: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:52:47: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:52:47: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 19:52:47: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 19:53:10: Error log file session closed.
+L 12/09/2015 - 19:53:10: SourceMod error session started
+L 12/09/2015 - 19:53:10: Info (map "surf_elysium") (file "errors_20151209.log")
+L 12/09/2015 - 19:53:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:53:10: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:53:10: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:53:10: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:53:10: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:53:10: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:53:10: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 19:53:10: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 19:53:50: Error log file session closed.
+L 12/09/2015 - 19:53:50: SourceMod error session started
+L 12/09/2015 - 19:53:50: Info (map "surf_classics2") (file "errors_20151209.log")
+L 12/09/2015 - 19:53:50: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 19:53:50: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 19:53:50: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 19:53:50: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 19:53:50: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 19:53:51: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 19:53:51: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 19:53:51: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 20:22:18: Error log file session closed.
+L 12/09/2015 - 20:22:18: SourceMod error session started
+L 12/09/2015 - 20:22:18: Info (map "surf_classics2") (file "errors_20151209.log")
+L 12/09/2015 - 20:22:18: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 20:22:18: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 20:22:18: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 20:22:18: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 20:22:18: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 20:22:18: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 20:22:18: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 20:22:18: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 20:25:42: Error log file session closed.
+L 12/09/2015 - 20:25:42: SourceMod error session started
+L 12/09/2015 - 20:25:42: Info (map "surf_acp_fix") (file "errors_20151209.log")
+L 12/09/2015 - 20:25:42: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 20:25:42: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 20:25:42: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 20:25:42: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 20:25:42: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 20:25:43: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 20:25:43: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 20:25:43: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 21:26:29: Error log file session closed.
+L 12/09/2015 - 21:26:29: SourceMod error session started
+L 12/09/2015 - 21:26:29: Info (map "surf_cubic") (file "errors_20151209.log")
+L 12/09/2015 - 21:26:29: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 21:26:29: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 21:26:29: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 21:26:29: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 21:26:29: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 21:26:30: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 21:26:30: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 21:26:30: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 21:43:36: Error log file session closed.
+L 12/09/2015 - 21:43:36: SourceMod error session started
+L 12/09/2015 - 21:43:36: Info (map "surf_globalchaos") (file "errors_20151209.log")
+L 12/09/2015 - 21:43:36: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 21:43:36: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 21:43:36: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 21:43:36: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 21:43:36: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 21:43:37: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 21:43:37: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 21:43:37: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 21:44:40: Error log file session closed.
+L 12/09/2015 - 21:44:40: SourceMod error session started
+L 12/09/2015 - 21:44:40: Info (map "surf_inspire") (file "errors_20151209.log")
+L 12/09/2015 - 21:44:40: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 21:44:40: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 21:44:40: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 21:44:40: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 21:44:40: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 21:44:40: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 21:44:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 21:44:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 21:56:23: Error log file session closed.
+L 12/09/2015 - 21:56:23: SourceMod error session started
+L 12/09/2015 - 21:56:23: Info (map "surf_spacejam") (file "errors_20151209.log")
+L 12/09/2015 - 21:56:23: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 21:56:23: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 21:56:23: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 21:56:23: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 21:56:23: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 21:56:24: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 21:56:24: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 21:56:24: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 21:57:01: [SM] Native "SDKHook" reported: Entity 1 is invalid
+L 12/09/2015 - 21:57:01: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 21:57:01: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 21:57:01: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 21:57:01: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 22:04:13: SourceMod error session started
+L 12/09/2015 - 22:04:13: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 22:04:13: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:04:13: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:04:13: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:04:13: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:04:13: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:04:14: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:04:47: Error log file session closed.
+L 12/09/2015 - 22:04:47: SourceMod error session started
+L 12/09/2015 - 22:04:47: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 22:04:47: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:04:47: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:04:47: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:04:47: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:04:47: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:04:48: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:04:48: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:04:48: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:05:10: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/09/2015 - 22:05:10: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 22:05:10: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 22:05:10: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 22:05:10: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 22:06:47: Error log file session closed.
+L 12/09/2015 - 22:06:47: SourceMod error session started
+L 12/09/2015 - 22:06:47: Info (map "surf_kitsune") (file "errors_20151209.log")
+L 12/09/2015 - 22:06:47: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:06:47: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:06:47: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:06:47: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:06:47: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:06:48: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:06:48: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:06:48: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:15:13: [SM] Native "SDKHook" reported: Entity 4 is invalid
+L 12/09/2015 - 22:15:13: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 22:15:13: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 22:15:13: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 22:15:13: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 22:18:46: Error log file session closed.
+L 12/09/2015 - 22:18:47: SourceMod error session started
+L 12/09/2015 - 22:18:47: Info (map "surf_rookie_fix") (file "errors_20151209.log")
+L 12/09/2015 - 22:18:47: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:18:47: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:18:47: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:18:47: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:18:47: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:18:47: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:18:47: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:18:47: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:19:18: Error log file session closed.
+L 12/09/2015 - 22:19:18: SourceMod error session started
+L 12/09/2015 - 22:19:18: Info (map "surf_beginner_ug") (file "errors_20151209.log")
+L 12/09/2015 - 22:19:18: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:19:18: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:19:18: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:19:18: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:19:18: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:19:19: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:19:19: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:19:19: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:19:26: [SM] Native "SDKHook" reported: Entity 4 is invalid
+L 12/09/2015 - 22:19:26: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 22:19:26: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 22:19:26: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 22:19:26: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/09/2015 - 22:20:40: [SM] Native "SDKHook" reported: Entity 5 is invalid
+L 12/09/2015 - 22:20:40: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/09/2015 - 22:20:40: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/09/2015 - 22:20:40: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/09/2015 - 22:20:40: [SM]   [2]  Line 204, ckSurf/replay.sp::LoadReplays()
+L 12/09/2015 - 22:20:40: [SM]   [3]  Line 165, ckSurf/replay.sp::WriteRecordToDisk()
+L 12/09/2015 - 22:20:40: [SM]   [4]  Line 111, ckSurf/replay.sp::SaveRecording()
+L 12/09/2015 - 22:20:40: [SM]   [5]  Line 335, ckSurf/timer.sp::ReplayTimer()
+L 12/09/2015 - 22:24:02: Error log file session closed.
+L 12/09/2015 - 22:24:02: SourceMod error session started
+L 12/09/2015 - 22:24:02: Info (map "surf_rainbow") (file "errors_20151209.log")
+L 12/09/2015 - 22:24:02: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:24:02: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:24:02: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:24:02: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:24:02: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:24:02: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:24:02: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:24:02: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:24:52: Error log file session closed.
+L 12/09/2015 - 22:24:52: SourceMod error session started
+L 12/09/2015 - 22:24:52: Info (map "surf_tomb_redone") (file "errors_20151209.log")
+L 12/09/2015 - 22:24:52: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:24:52: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:24:52: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:24:52: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:24:52: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:24:53: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:24:53: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:24:53: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:26:26: Error log file session closed.
+L 12/09/2015 - 22:26:26: SourceMod error session started
+L 12/09/2015 - 22:26:26: Info (map "surf_waterworks") (file "errors_20151209.log")
+L 12/09/2015 - 22:26:26: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:26:26: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:26:26: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:26:26: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:26:26: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:26:27: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:26:27: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:26:27: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:26:39: Error log file session closed.
+L 12/09/2015 - 22:26:39: SourceMod error session started
+L 12/09/2015 - 22:26:39: Info (map "surf_lux") (file "errors_20151209.log")
+L 12/09/2015 - 22:26:39: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:26:39: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:26:39: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:26:39: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:26:39: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:26:40: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:26:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:26:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 22:39:54: Error log file session closed.
+L 12/09/2015 - 22:39:54: SourceMod error session started
+L 12/09/2015 - 22:39:54: Info (map "surf_ninja_go_b5") (file "errors_20151209.log")
+L 12/09/2015 - 22:39:54: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 22:39:54: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 22:39:54: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 22:39:54: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 22:39:54: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 22:39:55: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/09/2015 - 22:39:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/09/2015 - 22:39:55: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/09/2015 - 23:46:05: SourceMod error session started
+L 12/09/2015 - 23:46:05: Info (map "surf_prelude_ksf") (file "errors_20151209.log")
+L 12/09/2015 - 23:46:05: [SM] Plugin encountered error 25: Call was aborted
+L 12/09/2015 - 23:46:05: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/09/2015 - 23:46:05: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/09/2015 - 23:46:05: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/09/2015 - 23:46:05: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/09/2015 - 23:47:19: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.

@@ -1,0 +1,222 @@
+L 12/13/2015 - 04:52:31: SourceMod error session started
+L 12/13/2015 - 04:52:31: Info (map "surf_beginner_ug") (file "errors_20151213.log")
+L 12/13/2015 - 04:52:31: Error log file session closed.
+L 12/13/2015 - 04:52:31: SourceMod error session started
+L 12/13/2015 - 04:52:31: Info (map "surf_beginner_ug") (file "errors_20151213.log")
+L 12/13/2015 - 04:52:31: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 04:52:31: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 04:52:31: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 04:52:31: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 04:52:31: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 04:52:31: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 04:52:31: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 04:52:31: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 04:52:31: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 04:52:31: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 04:52:32: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 04:52:32: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 04:52:32: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 04:52:45: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 04:52:45: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 04:52:45: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 04:52:45: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 04:52:45: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 04:52:45: [SM] Native "SDKHook" reported: Entity 3 is invalid
+L 12/13/2015 - 04:52:45: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 04:52:45: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 04:52:45: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 04:52:45: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 04:52:57: Error log file session closed.
+L 12/13/2015 - 04:52:57: SourceMod error session started
+L 12/13/2015 - 04:52:57: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 04:52:57: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 04:52:57: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 04:52:57: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 04:52:57: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 04:52:57: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 04:52:57: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 04:52:57: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 04:52:57: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 04:52:57: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 04:52:57: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 04:52:58: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 04:52:58: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 04:52:58: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 04:53:05: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 04:53:05: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 04:53:05: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 04:53:05: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 04:53:05: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 06:59:37: Error log file session closed.
+L 12/13/2015 - 06:59:37: SourceMod error session started
+L 12/13/2015 - 06:59:37: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 06:59:37: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 06:59:37: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 06:59:37: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 06:59:37: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 06:59:37: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 06:59:37: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 06:59:37: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 06:59:37: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 06:59:37: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 06:59:37: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 06:59:38: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 06:59:38: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 06:59:38: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 07:00:08: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 07:00:08: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 07:00:08: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 07:00:08: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 07:00:08: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 07:00:09: [SM] Native "SDKHook" reported: Entity 3 is invalid
+L 12/13/2015 - 07:00:09: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 07:00:09: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 07:00:09: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 07:00:09: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 07:26:01: Error log file session closed.
+L 12/13/2015 - 07:26:01: SourceMod error session started
+L 12/13/2015 - 07:26:01: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 07:26:01: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 07:26:01: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 07:26:01: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 07:26:01: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 07:26:01: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 07:26:01: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 07:26:01: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 07:26:01: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 07:26:01: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 07:26:01: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 07:26:02: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 07:26:02: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 07:26:02: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 18:57:10: Error log file session closed.
+L 12/13/2015 - 18:57:10: SourceMod error session started
+L 12/13/2015 - 18:57:10: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 18:57:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 18:57:10: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 18:57:10: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 18:57:10: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 18:57:10: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 18:57:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 18:57:10: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 18:57:10: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 18:57:10: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 18:57:10: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 18:57:12: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 18:57:12: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 18:57:12: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 19:53:11: Error log file session closed.
+L 12/13/2015 - 19:53:11: SourceMod error session started
+L 12/13/2015 - 19:53:11: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 19:53:11: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 19:53:11: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 19:53:11: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 19:53:11: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 19:53:11: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 19:53:11: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 19:53:11: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 19:53:11: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 19:53:11: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 19:53:11: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 19:53:12: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 19:53:12: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 19:53:12: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 19:53:42: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 19:53:42: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 19:53:42: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 19:53:42: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 19:53:42: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 19:53:42: [SM] Native "SDKHook" reported: Entity 3 is invalid
+L 12/13/2015 - 19:53:42: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 19:53:42: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 19:53:42: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 19:53:42: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 19:53:43: [SM] Native "SDKHook" reported: Entity 4 is invalid
+L 12/13/2015 - 19:53:43: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 19:53:43: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 19:53:43: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 19:53:43: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 19:53:44: [SM] Native "SDKHook" reported: Entity 5 is invalid
+L 12/13/2015 - 19:53:44: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 19:53:44: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 19:53:44: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 19:53:44: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 20:43:40: Error log file session closed.
+L 12/13/2015 - 20:43:40: SourceMod error session started
+L 12/13/2015 - 20:43:40: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 20:43:40: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 20:43:40: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 20:43:40: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 20:43:40: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 20:43:40: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 20:43:40: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 20:43:40: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 20:43:40: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 20:43:40: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 20:43:40: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 20:43:40: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 20:43:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 20:43:40: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 20:44:20: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 20:44:20: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 20:44:20: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 20:44:20: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 20:44:20: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 22:15:10: Error log file session closed.
+L 12/13/2015 - 22:15:10: SourceMod error session started
+L 12/13/2015 - 22:15:10: Info (map "surf_utopia_v3") (file "errors_20151213.log")
+L 12/13/2015 - 22:15:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 22:15:10: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 22:15:10: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 22:15:10: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 22:15:10: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 22:15:10: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 22:15:10: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 22:15:10: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 22:15:10: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 22:15:10: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 22:15:11: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 22:15:11: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 22:15:11: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 22:15:40: [SM] Native "SDKHook" reported: Entity 2 is invalid
+L 12/13/2015 - 22:15:40: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 22:15:40: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 22:15:40: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 22:15:40: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 22:15:40: [SM] Native "SDKHook" reported: Entity 3 is invalid
+L 12/13/2015 - 22:15:40: [SM] Displaying call stack trace for plugin "ckSurf.smx":
+L 12/13/2015 - 22:15:40: [SM]   [0]  Line 252, ckSurf/replay.sp::PlayRecord()
+L 12/13/2015 - 22:15:40: [SM]   [1]  Line 379, ckSurf/replay.sp::LoadRecordReplay()
+L 12/13/2015 - 22:15:40: [SM]   [2]  Line 346, ckSurf/replay.sp::RefreshBot()
+L 12/13/2015 - 22:20:43: Error log file session closed.
+L 12/13/2015 - 22:20:43: SourceMod error session started
+L 12/13/2015 - 22:20:43: Info (map "kz_frozen_go") (file "errors_20151213.log")
+L 12/13/2015 - 22:20:43: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 22:20:43: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 22:20:43: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 22:20:43: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 22:20:43: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 22:20:43: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 22:20:43: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 22:20:43: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 22:20:43: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 22:20:43: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 22:20:44: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 22:20:44: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 22:20:44: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt
+L 12/13/2015 - 23:47:45: Error log file session closed.
+L 12/13/2015 - 23:47:46: SourceMod error session started
+L 12/13/2015 - 23:47:46: Info (map "kz_frozen_go") (file "errors_20151213.log")
+L 12/13/2015 - 23:47:46: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 23:47:46: [SM] Native "SetFailState" reported: [KZTimer] Unable to connect to database (Configuration "kztimer" not found)
+L 12/13/2015 - 23:47:46: [SM] Displaying call stack trace for plugin "KZTimer.smx":
+L 12/13/2015 - 23:47:46: [SM]   [0]  Line 331, kztimer/sql.sp::db_setupDatabase()
+L 12/13/2015 - 23:47:46: [SM]   [1]  Line 1128, KZTimer.sp::OnPluginStart()
+L 12/13/2015 - 23:47:46: [SM] Plugin encountered error 25: Call was aborted
+L 12/13/2015 - 23:47:46: [SM] Native "SetFailState" reported: CFG File not found: addons/sourcemod/configs/csgo_wpaints.cfg
+L 12/13/2015 - 23:47:46: [SM] Displaying call stack trace for plugin "franug_weaponpaints.smx":
+L 12/13/2015 - 23:47:46: [SM]   [0]  Line 394, franug_weaponpaints.sp::ReadPaints()
+L 12/13/2015 - 23:47:46: [SM]   [1]  Line 101, franug_weaponpaints.sp::OnPluginStart()
+L 12/13/2015 - 23:47:46: Failed to auto generate config for pugsetup.smx, make sure the directory has write permission.
+L 12/13/2015 - 23:47:46: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/maps.txt
+L 12/13/2015 - 23:47:46: [pugsetup.smx] Missing map file: addons/sourcemod/configs/pugsetup/aim_maps.txt

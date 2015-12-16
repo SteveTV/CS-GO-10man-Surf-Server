@@ -1,0 +1,23 @@
+L 12/13/2015 - 04:52:31: SourceMod log file session started (file "L20151213.log") (Version "1.7.2")
+L 12/13/2015 - 04:52:31: -------- Mapchange to surf_beginner_ug --------
+L 12/13/2015 - 04:52:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 04:52:53: [basecommands.smx] "✪ spK_<5><STEAM_1:0:99139306><>" changed map to "utopia"
+L 12/13/2015 - 04:52:56: [SM] Changed map to "utopia"
+L 12/13/2015 - 04:52:57: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 04:52:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 06:59:37: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 06:59:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 07:26:01: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 07:26:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 18:57:10: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 18:57:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 19:53:11: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 19:53:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 20:43:40: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 20:43:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 22:15:10: -------- Mapchange to surf_utopia_v3 --------
+L 12/13/2015 - 22:15:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 12/13/2015 - 22:20:40: [basecommands.smx] "codof<24><STEAM_1:1:92680520><>" changed map to "frozen"
+L 12/13/2015 - 22:20:43: [SM] Changed map to "frozen"
+L 12/13/2015 - 22:20:43: -------- Mapchange to kz_frozen_go --------
+L 12/13/2015 - 23:47:45: -------- Mapchange to kz_frozen_go --------

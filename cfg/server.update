@@ -1,0 +1,11 @@
+rcon_password "1252708"
+hostname "A New GameServers.com CS:GO Server"
+sv_broadcast_ugc_downloads 1
+sv_broadcast_ugc_download_progress_interval 5
+sv_hibernate_ms "20"
+sv_hibernate_ms_vgui "20"
+sv_hibernate_postgame_delay "5"
+sv_hibernate_punt_tv_clients "0"
+sv_hibernate_when_empty 0
+host_players_show 2
+sv_max_queries_sec 6
